@@ -3,25 +3,6 @@
 ## Requirements
 - [esx_skin](https://github.com/ESX-Org/esx_skin)
 
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_barbershop
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_barbershop [esx]/esx_barbershop
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_barbershop/archive/master.zip
-- Put it in the `[esx]` directory
-
-## Installation
-- Add this in your `server.cfg`:
 
 ```
 start esx_barbershop
